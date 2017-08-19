@@ -19,3 +19,4 @@ for count in range(n):
     
 Sn = reduce(lambda x,y:x+y,Sn)
 print '计算的和为:',Sn
+print a
